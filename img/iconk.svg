@@ -1,0 +1,29 @@
+<svg width="49.000000" height="54.000000" viewBox="0 0 49 54" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<filter id="filter_1_201_dd" x="0.000000" y="0.000000" width="49.000000" height="54.000000" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+			<feOffset dx="0" dy="4"/>
+			<feGaussianBlur stdDeviation="1.33333"/>
+			<feComposite in2="hardAlpha" operator="out" k2="-1" k3="1"/>
+			<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+			<feBlend mode="normal" in2="BackgroundImageFix" result="effect_dropShadow_1"/>
+			<feBlend mode="normal" in="SourceGraphic" in2="effect_dropShadow_1" result="shape"/>
+		</filter>
+	</defs>
+	<g filter="url(#filter_1_201_dd)">
+		<rect id="Icon/Outline/heart" width="41.000000" height="46.000000" transform="translate(4.000000 0.000000)" fill="#FFFFFF" fill-opacity="0"/>
+		<path id="Mask" d="M23.2916 39.6865C23.6111 40.0487 24.0468 40.25 24.4995 40.25C24.9539 40.25 25.3878 40.0487 25.709 39.6884L38.9792 24.7748C42.4575 20.8648 42.4575 14.5034 38.9775 10.5934C37.2983 8.70741 35.0553 7.66666 32.667 7.66666C30.2754 7.66666 28.0341 8.70741 26.353 10.5953L24.4995 12.6768L22.6459 10.5934C20.9667 8.70741 18.7236 7.66666 16.3336 7.66666C13.9437 7.66666 11.7024 8.70741 10.0214 10.5934C6.54321 14.5034 6.54321 20.8648 10.0214 24.7748L23.2916 39.6865ZM16.3336 11.5C14.8577 11.5 13.4739 12.1402 12.4386 13.3036C10.2896 15.7186 10.2896 19.6497 12.4403 22.0685L24.4995 35.6212L36.5603 22.0685C38.7111 19.6497 38.7111 15.7186 36.5603 13.3036C34.4899 10.9748 30.8408 10.9787 28.7703 13.3036L25.709 16.744C25.0667 17.4666 23.9323 17.4666 23.2899 16.744L20.2286 13.3017C19.1934 12.1402 17.8114 11.5 16.3336 11.5Z" clip-rule="evenodd" fill="#000000" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<mask id="mask4_46" mask-type="alpha" maskUnits="userSpaceOnUse" x="7.412720" y="7.666656" width="34.174992" height="32.583332">
+			<path id="Mask" d="M23.2916 39.6865C23.6111 40.0487 24.0468 40.25 24.4995 40.25C24.9539 40.25 25.3878 40.0487 25.709 39.6884L38.9792 24.7748C42.4575 20.8648 42.4575 14.5034 38.9775 10.5934C37.2983 8.70741 35.0553 7.66666 32.667 7.66666C30.2754 7.66666 28.0341 8.70741 26.353 10.5953L24.4995 12.6768L22.6459 10.5934C20.9667 8.70741 18.7236 7.66666 16.3336 7.66666C13.9437 7.66666 11.7024 8.70741 10.0214 10.5934C6.54321 14.5034 6.54321 20.8648 10.0214 24.7748L23.2916 39.6865ZM16.3336 11.5C14.8577 11.5 13.4739 12.1402 12.4386 13.3036C10.2896 15.7186 10.2896 19.6497 12.4403 22.0685L24.4995 35.6212L36.5603 22.0685C38.7111 19.6497 38.7111 15.7186 36.5603 13.3036C34.4899 10.9748 30.8408 10.9787 28.7703 13.3036L25.709 16.744C25.0667 17.4666 23.9323 17.4666 23.2899 16.744L20.2286 13.3017C19.1934 12.1402 17.8114 11.5 16.3336 11.5Z" clip-rule="evenodd" fill="#231F20" fill-opacity="1.000000" fill-rule="evenodd"/>
+		</mask>
+		<g mask="url(#mask4_46)">
+			<rect id="🎨 Color" width="41.000000" height="46.000000" transform="translate(4.000000 0.000000)" fill="#FFFFFF" fill-opacity="0"/>
+			<rect id="Base" x="4.000000" width="41.000000" height="46.000000" fill="#000000" fill-opacity="1.000000"/>
+			<rect id="Base" x="4.000000" width="41.000000" height="46.000000" stroke="#979797" stroke-opacity="0" stroke-width="0.000000"/>
+		</g>
+	</g>
+</svg>
